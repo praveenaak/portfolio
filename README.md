@@ -1,12 +1,6 @@
 
 Tempe, AZ | pkulandh@asu.edu | [LinkedIn](https://www.linkedin.com/in/praveenaa-kulandhaivel/) | [GitHub](https://github.com/praveenaak)
 
-## TECHNICAL SKILLS
-- **Languages & Databases:** Python, C/C++, C#, Java, JavaScript, CSS, PL/SQL, PostgreSQL, PostGIS, KML, Xamarin, XAML 
-- **Libraries & Frameworks:** OpenCV, GeoPandas, Node.js, Leaflet, PyTorch, D3.js, .NET, Oracle Spatial, GDAL, React 
-- **Tools:** ESRI ArcGIS, QGIS, Google Earth Engine, Agile, JIRA, Jupyter, Flask, MATLAB, AWS, Tableau, PowerBI 
-- **Certification & Courses:** AWS Certified Cloud Practitioner, Microsoft PowerBI Data Analyst Associate, Spatial Data Science 
-
 ## EDUCATION
 - **M.S., Computer Science**  
   Arizona State University, Tempe  
@@ -14,7 +8,15 @@ Tempe, AZ | pkulandh@asu.edu | [LinkedIn](https://www.linkedin.com/in/praveenaa-
 
 - **B. Tech + M. Tech (Dual Degree), Computer Engineering**  
   Indian Institute of Information Technology, Kancheepuram  
-  May 2021 | 8.35 GPA  
+  May 2021 | 8.35 GPA
+
+
+## TECHNICAL SKILLS
+- **Languages & Databases:** Python, C/C++, C#, Java, JavaScript, CSS, PL/SQL, PostgreSQL, PostGIS, KML, Xamarin, XAML 
+- **Libraries & Frameworks:** OpenCV, GeoPandas, Node.js, Leaflet, PyTorch, D3.js, .NET, Oracle Spatial, GDAL, React 
+- **Tools:** ESRI ArcGIS, QGIS, Google Earth Engine, Agile, JIRA, Jupyter, Flask, MATLAB, AWS, Tableau, PowerBI 
+- **Certification & Courses:** AWS Certified Cloud Practitioner, Microsoft PowerBI Data Analyst Associate, Spatial Data Science 
+
 
 ## PROFESSIONAL EXPERIENCE
 **Arizona State University: Graduate Services Assistant - Geospatial Research**  
