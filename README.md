@@ -1,5 +1,5 @@
-# Praveenaa Kulandhaivel  
-Tempe, AZ | 602-838-0722 | pkulandh@asu.edu | [LinkedIn](https://www.linkedin.com/in/praveenaa-kulandhaivel/) | [GitHub](https://github.com/praveenaak)
+
+Tempe, AZ | pkulandh@asu.edu | [LinkedIn](https://www.linkedin.com/in/praveenaa-kulandhaivel/) | [GitHub](https://github.com/praveenaak)
 
 ## TECHNICAL SKILLS
 - **Languages & Databases:** Python, C/C++, C#, Java, JavaScript, CSS, PL/SQL, PostgreSQL, PostGIS, KML, Xamarin, XAML 
